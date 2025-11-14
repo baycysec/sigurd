@@ -60,7 +60,7 @@ Sigurd is a research-oriented malware sample, specifically a Remote Access Troja
 
 ## [📧] How to Request Access
 
-E-mail `baycorp22@gmail.com` with:
+E-mail `baycysec@gmail.com` with:
 - Full name, affiliation, and role.
 - Intended use (training / research / CTF).
 - Short containment plan (VM provider or snapshot/rollback).
